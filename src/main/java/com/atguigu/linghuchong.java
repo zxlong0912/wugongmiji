@@ -8,5 +8,6 @@ public class linghuchong {
         System.out.println("笑傲江湖");
         System.out.println("笑傲江湖");
         System.out.println("笑傲江湖");
+        System.out.println("笑傲江湖");
     }
 }
